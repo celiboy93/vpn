@@ -1,6 +1,7 @@
 {
-"SendMessage":11,
+"SendMessage":12,
 "MyMessage":
 "Mytel gcp and atom yatha userများအတွက် gcp တစ်လစာ http file နှင့် gcp + atom yatha serverများပါတဲ့ vpn appကို 3000ksဖြင့် အသုံးပြုနိူင်ပါပြီခင်ဗျာ
-Fix Server Singapore Gcp 1 ချိတ်လျှင် စက္ကန့်ပိုင်းခန့် ကြာနိူင်သည်"
+
+Add Taiwan Gcp 3 Server"
 }
